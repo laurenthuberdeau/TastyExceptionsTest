@@ -1,3 +1,3 @@
-# Changelog for BracketTest
+# Changelog for TastyExceptionsTest
 
 ## Unreleased changes
